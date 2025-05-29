@@ -1,7 +1,7 @@
 {
     "name": "CypherSwoon",
     "clients": ["twitter", "discord", "instagram"],
-    "plugins": ["@elizaos/plugin-twitter", "@elizaos/client-discord", "@elizaos/plugin-video-generation",  "@elizaos/plugin-web-search",
+    "plugins": ["@elizaos/plugin-twitter", "@elizaos/plugin-discord", "@elizaos/plugin-video-generation",  "@elizaos/plugin-web-search",
      "@elizaos/plugin-imgflip","@elizaos/plugin-giphy", "@elizaos/plugin-tts", " @elizaos-plugins/plugin-image-generation", "@elizaos/plugin-video",
       "@elizaos-plugins/plugin-image", "@elizaos/client-instagram", "@elizaos/plugin-suno"
       ],
