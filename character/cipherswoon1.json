@@ -6,7 +6,7 @@
       "@elizaos-plugins/plugin-image", "@elizaos/client-instagram", "@elizaos/plugin-suno"
       ],
     "modelProvider": "openrouter",
-    "model": "x-ai/grok-3-beta",
+    "model": "",
     "modelSettings": {
         "temperature": 0.9,
         "topP": 1.0,
